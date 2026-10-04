@@ -1,0 +1,8 @@
+{
+  "name": "ABC Note Quiz",
+  "description": "Master ABC notation through interactive staff-to-code quizzes with detailed explanations for every incorrect answer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
